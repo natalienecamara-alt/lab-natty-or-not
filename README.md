@@ -1,4 +1,4 @@
-# Música: Rumo ao Nexus - League of Legends
+# Música: Rumo ao Hexa - League of Legends
 
 ## 📒 Descrição
 Uma música épica sobre o universo de League of Legends, focada na batalha para destruir o Nexus. A letra e a melodia foram criadas 100% utilizando ferramentas de Inteligência Artificial Generativa.
@@ -12,4 +12,5 @@ Primeiro, criei um prompt focado no jogo League of Legends para gerar uma letra 
 
 ## 🚀 Resultados
 A música finalizada ficou com uma qualidade incrível. Você pode ouvir o resultado clicando no link abaixo:
-https://suno.com/s/CA3YCVFuPB6mcxzt
+https://suno.com/song/981dedb7-c65a-42cb-b678-26d13f0137d7?sh=0LEH6oj90lnnV4FK
+
